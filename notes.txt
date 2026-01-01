@@ -1,0 +1,11 @@
+Project setup — Create folder and initialize npm
+
+1. Create a project folder on your drive (for example: C:\Users\<you>\Documents\MyApp).
+2. Open the folder in VS Code:
+   - In File Explorer navigate to the folder, click the address bar, type `cmd`, and press Enter to open a terminal at that folder.
+   - In that terminal run `code .` to open VS Code in the folder.
+   - (Alternative) Right-click the folder and choose "Open with Code".
+3. Open the VS Code integrated terminal: press Ctrl+` or choose View → Terminal.
+4. Initialize npm in the terminal: run `npm init` (or `npm init -y` to accept defaults).
+
+Next steps (optional): install dependencies with `npm install`, create source files, and start your project.
